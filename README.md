@@ -14,3 +14,8 @@ Turma 1 (2019)
 Turma 2 (2022)
 - Roberto Carlos, 17 anos, matrícula 41258
 - Juliana de Paula, 18 anos, matrícula 87459
+
+# Atividade JSON
+Modifique a atividade anterior para que a comunicação entre os sistemas heterogêneos utilize JSON como linguagem de interoperabilidade.
+
+Ao receber os dados e fazer o parsing, o programa Python deverá sortear um aluno aleatório de cada turma para ser o líder de turma, e devolver essa informação para o programa Java, que irá exibí-la na tela.
