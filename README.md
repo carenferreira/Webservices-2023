@@ -1,5 +1,5 @@
 # Webservices-2023
-### Socket Python e Socket Java: Atividade prática: integração de sistemas
+### Socket Python e Socket Java: Atividade prática - integração de sistemas
 1 - Uma empresa do ramo educacional possui sistemas legados em Java, e adquiriu um novo sistema em Python. Esse sistema precisará se comunicar via rede com o sistema Java, e receber as informações das turmas cadastradas no sistema Java.
 A classe Java “Turma” possui os campos id (string), nome (string), ano (int) e um array de objetos alunos.
 A classe Java “Aluno” possui os campos matricula (string), nome (string) e idade (int).
@@ -19,7 +19,13 @@ Turma 2 (2022)
 2 - Modifique a atividade anterior para que a comunicação entre os sistemas heterogêneos utilize JSON como linguagem de interoperabilidade.
 Ao receber os dados e fazer o parsing, o programa Python deverá sortear um aluno aleatório de cada turma para ser o líder de turma, e devolver essa informação para o programa Java, que irá exibí-la na tela.
 
-### Linguagem XML: Linguagem XML
+### Atividade AJAX
+Busca CEP:
+	
+1) Escreva o código JavaScript onde o usuário fornece um CEP e são retornadas as informações do seu endereço.
+2) Desenvolva uma página web responsiva (Web App) onde o usuário informa seu estado, cidade e rua, e é informado o CEP e o Bairro de todos os registros retornados.
+
+### Linguagem XML
 BibliotecaXML:
 1) Em relação ao arquivo biblioteca.xml, responda às seguintes questões (usando a linguagem Python):
 - Qual a porcentagem de livros da biblioteca que estão emprestados.
