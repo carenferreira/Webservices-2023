@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: green;
+    padding: 20px 0;
+    margin: 0;
+}
+
+#form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="button"] {
+    padding: 10px;
+    margin: 5px;
+}
+
+#btn {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+#table {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: green;
+    color: white;
+}
